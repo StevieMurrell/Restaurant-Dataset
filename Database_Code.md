@@ -3,7 +3,7 @@ MYSQL Code
 
 -
 
-SELESELECT
+SELECT
 	o.order_id,
 	i.item_price,
 	o.quantity,
